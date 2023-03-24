@@ -31,6 +31,12 @@ Debe mantener el servidor encendido mientras la aplicación este en uso.
 
 # Resultado
 
+# PANTALLA CRUD
 <picture>
   <img alt="./imagenes/CRUD.PNG" src="./imagenes/CRUD.PNG">
+</picture>
+
+# BASE DE DATOS
+<picture>
+  <img alt="./imagenes/MONGODB.PNG" src="./imagenes/MONGODB.PNG">
 </picture>
